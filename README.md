@@ -55,4 +55,4 @@ nodejs-rest-http-crud   nodejs-rest-http-crud-opentel.apps-crc.testing          
 #### Running on Openshift with traces enabled
 
 * [Read more](./OTEL.md)
-* "Test build"
+* "Test for CI/CD"
